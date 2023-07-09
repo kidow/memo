@@ -1,0 +1,7 @@
+declare module '@editorjs/simple-image'
+declare module '@editorjs/list'
+declare module '@editorjs/checklist'
+declare module '@editorjs/table'
+declare module '@editorjs/code'
+declare module '@editorjs/marker'
+declare module '@editorjs/inline-code'
